@@ -5,8 +5,9 @@ pip install -r requirement
 python setup.py install
 ```
 # 資料集準備
-下載以下連結中的圖像資料集，
-放置道mrcnn_custom根目錄
+https://thinfi.com/06yrq (密碼: dlll密碼) <br />
+
+下載後放置於mrcnn_custom根目錄如下
 ```
 mrcnn_custom/
 │
